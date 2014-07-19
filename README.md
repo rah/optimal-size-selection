@@ -1,3 +1,3 @@
-*Size Selective Predation and Optimal Foraging* by _Favonigobius melanobranchus_ (Fowler, 1934) (Teleostei: Gobidae)
+Size Selective Predation and Optimal Foraging by __Favonigobius melanobranchus__ (Fowler, 1934) (Teleostei: Gobidae)
 
 
