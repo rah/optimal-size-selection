@@ -1,6 +1,3 @@
-optimal-size-selection
-======================
-
-Data and analysis looking into size selective predation by a littoral gobiid Favionigobius melanobranchus.
+*Size Selective Predation and Optimal Foraging* by _Favonigobius melanobranchus_ (Fowler, 1934) (Teleostei: Gobidae)
 
 
