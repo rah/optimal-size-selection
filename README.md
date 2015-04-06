@@ -1,1 +1,1 @@
-Size Selective Predation and Optimal Foraging by __Favonigobius melanobranchus__](http://nbviewer.ipython.org/github/rah/optimal-size-selection/tree/master/ipython/) (Fowler, 1934) (Teleostei: Gobidae)
+[Size Selective Predation and Optimal Foraging by __Favonigobius melanobranchus__](http://nbviewer.ipython.org/github/rah/optimal-size-selection/tree/master/ipython/) (Fowler, 1934) (Teleostei: Gobidae)
